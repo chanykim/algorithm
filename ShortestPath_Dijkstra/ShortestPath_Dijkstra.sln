@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ShortestPath_Dijkstra", "ShortestPath_Dijkstra\ShortestPath_Dijkstra.vcxproj", "{F03B4F7A-DBD8-4BAF-814A-120924EE3368}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F03B4F7A-DBD8-4BAF-814A-120924EE3368}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F03B4F7A-DBD8-4BAF-814A-120924EE3368}.Debug|Win32.Build.0 = Debug|Win32
+		{F03B4F7A-DBD8-4BAF-814A-120924EE3368}.Release|Win32.ActiveCfg = Release|Win32
+		{F03B4F7A-DBD8-4BAF-814A-120924EE3368}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
